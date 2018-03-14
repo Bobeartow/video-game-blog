@@ -1,0 +1,25 @@
+body {
+  background-color: aliceblue;
+}
+
+.container {
+  width: 60%;
+  margin: auto;
+  font-family: sans-serif;
+}
+
+.blog-post {
+  text-align: center;
+}
+
+.inner-container {
+  text-align: left;
+}
+
+.masterlist {
+  list-style: none;
+}
+
+h1 {
+
+}
